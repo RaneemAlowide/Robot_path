@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robot path</title>
+    <style>
+      body{
+         background-color: #DFDBD5;
+      }
+      canvas {
+          border:1px solid #d3d3d3;
+          background-color: #f1f1f1;
+          border-color: #7A7367;
+   
+      }
+      .container{
+        display: grid;
+        justify-content: center;
+        align-items: center;  
+      }
+
+      .myText{
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 35px;
+      }
+      
+    </style>
+
+</head>
+
+<body>
+  <div class="container">
+    <h2 class="myText">Full robot path</h2>
+    <canvas id="canvas" width="1000" height="500"></canvas>
+    <script src="path.js"></script>
+  </div>
+
+
+</body>
+</html>

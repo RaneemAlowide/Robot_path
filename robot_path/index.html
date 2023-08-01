@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>robot path</title>
+    <link href="styles.css" rel="stylesheet">
+    <script src="path.js"></script>
+</head>
+
+<body onload="startpath()">
+
+    <div classs="container">
+        <canvas id="canvas" width="1000" height="500" ></canvas>
+        <script src="script.js"></script><br><br>
+    
+  
+    <div class="all-buttons">
+        <img src="image/robot.png">
+        <div class='button-container'style="text-align:center;width:480px;">
+            <button class="buttons" onclick="moveforward()"><img src='image/up.png'></button><br><br>
+            <button class="buttons" onclick="moveleft()"><img src='image/left.png'></button>
+           
+            <button class="buttons" onclick="moveright()"><img src='image/right.png'></button><br><br>
+            <button class="buttons" onclick="movebackward()"><img src='image/down.png'></button>
+        </div>
+        <div class="second-container">
+            <button class="other-button" onclick="savePath()">Save</button><br><br><br>
+            <button class="other-button" onclick="stop()">Clear</button>
+        </div>
+        
+        
+    </div>
+    </div>
+
+
+</body>
+</html>
