@@ -9,7 +9,7 @@ this project was made using the following:
   - save_data.php : to take data from script.js file and save it iin the database
   - image file : has the image for the arrows of the buttons and the robot image.
   
-there is also screen recording and some screenshots of how this project works 
+There is also screen recording and some of how this project works 
 
 
 
