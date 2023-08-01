@@ -7,4 +7,8 @@ this project was made using the following:
      * path.js: has the functions that will draw the full path after the user clicks save.
   - styles.css : it gives the colores and style for the index.html file
   - save_data.php : to take data from script.js file and save it iin the database
+  - image file : has the image for the arrows of the buttons and the robot image.
   
+there is also screen recording and some screenshots of how this project works 
+
+![Screenshot 2023-08-01 at 7 18 04 PM](https://github.com/RaneemAlowide/Robot_path/assets/99085418/78c4045b-b14e-4f43-b544-edee39d5ef99)
