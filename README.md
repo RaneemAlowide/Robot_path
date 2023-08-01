@@ -1,3 +1,2 @@
 # Robot_path
-
-<img width="1440" alt="Screenshot 2023-08-01 at 7 18 04 PM" src="https://github.com/RaneemAlowide/Robot_path/assets/99085418/a8f6f17c-d62f-4500-87a6-ec13c1e3ca3a">
+![F098EE9C-AF3F-463D-9F5B-353785DD5FCD_1_201_a](https://github.com/RaneemAlowide/Robot_path/assets/99085418/94b05691-87a6-46d1-afa2-bec7344b74ae)
