@@ -11,4 +11,6 @@ this project was made using the following:
   
 there is also screen recording and some screenshots of how this project works 
 
-![Screenshot 2023-08-01 at 7 18 04 PM](https://github.com/RaneemAlowide/Robot_path/assets/99085418/78c4045b-b14e-4f43-b544-edee39d5ef99)
+
+
+<img width="700" alt="Screenshot 2023-08-01 at 7 18 04 PM" src="https://github.com/RaneemAlowide/Robot_path/assets/99085418/78c4045b-b14e-4f43-b544-edee39d5ef99">
